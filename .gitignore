@@ -1,0 +1,5 @@
+config/
+input/
+output/
+tmp/
+.DS_Store
