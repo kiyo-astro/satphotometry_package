@@ -16,8 +16,10 @@ obs_id   = "DECAM"                                # Pbservatory ID   | str
 telescope_name = ""                    # Telescope name   | str
 telescope_id   = ""                              # Telescope ID     | str
 
-obs_gd_lon_deg = 70.81489 # Geodetic longitude [deg] | float
-obs_gd_lat_deg = -30.16606  # Geodetic latitude  [deg] | float
+obs_timezone = "Chile/Continental"
+
+obs_gd_lon_deg = -70.814890 # Geodetic longitude [deg] | float
+obs_gd_lat_deg = -30.165278  # Geodetic latitude  [deg] | float
 obs_gd_height  = 2.215  # Geodetic height [km] | float
 
 obs_el_min   = 0        # Observation elevation min [deg] | int or float

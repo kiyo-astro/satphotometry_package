@@ -16,6 +16,8 @@ obs_id   = "KUPT"                                # Pbservatory ID   | str
 telescope_name = "MEADE LX200-40ACF"             # Telescope name   | str
 telescope_id   = ""                              # Telescope ID     | str
 
+obs_timezone = "Asia/Tokyo"
+
 obs_gd_lon_deg = 130.0 + (12.0 + 42.0 / 60.0) / 60.0 # Geodetic longitude [deg] | float
 obs_gd_lat_deg = 33.0 + (35.0 + 56.0 / 60.0) / 60.0  # Geodetic latitude  [deg] | float
 obs_gd_height  = 0.073  # Geodetic height [km] | float

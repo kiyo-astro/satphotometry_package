@@ -14,9 +14,18 @@
 norad_ids = [
     20580,  # HST
     25544,  # ISS
+    27386,  # ENVISAT
     48274,  # CSS
     53807,  # BLUEWALKER 3
-    59588   # ACS 3 SOLAR SAIL
+    59588,  # ACS 3 SOLAR SAIL
+    60235,  # OBJECT A
+    67073,  # RAISE-4
+    61047,  # SPACEMOBILE-001
+    61048,  # SPACEMOBILE-002
+    61045,  # SPACEMOBILE-003
+    61049,  # SPACEMOBILE-004
+    61046,  # SPACEMOBILE-005
+    67232   # SPACEMOBILE-006
 ]
 
 ftitle = "BRIGHT_LEO"   # Satellites list title for file name | str
